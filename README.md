@@ -8,5 +8,8 @@ put ur webhook url in `webhook_url.txt`, or look at `subscription_listener.py` t
 python3 monitor.py
 ```
 
+## deps
+![pip3 install lightstreamer](./deps.png)
+
 ## license
 0BSD
